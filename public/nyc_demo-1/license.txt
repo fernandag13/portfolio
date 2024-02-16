@@ -1,0 +1,11 @@
+Model Information:
+* title:	NYC_demo-1
+* source:	https://sketchfab.com/3d-models/nyc-demo-1-c83f6c53422747678c36736901c6ab5a
+* author:	vizible (https://sketchfab.com/vizible)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "NYC_demo-1" (https://sketchfab.com/3d-models/nyc-demo-1-c83f6c53422747678c36736901c6ab5a) by vizible (https://sketchfab.com/vizible) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
